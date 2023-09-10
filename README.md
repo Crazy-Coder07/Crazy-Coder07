@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/adityaiiit07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityaiiit07" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-ranjan-198aa1212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-ranjan-198aa1212" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/15793841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/15793841" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15793841" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/15793841" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/crazy_coder007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="crazy_coder007" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/crazy_coder07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="crazy_coder07" height="30" width="40" /></a>
 </p>
